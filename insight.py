@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('D:\Python Projects\Sample proj\compaign\Campaign_Data_Week1')
+df = pd.read_csv('Campaign_Data_Week1')
 
 # Filter for New Customers
 new_customers = df[df['Customer Type'] == 'New']
