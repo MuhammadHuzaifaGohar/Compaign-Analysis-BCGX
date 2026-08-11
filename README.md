@@ -2,7 +2,9 @@
 ## NewCo Marketing Campaign Performance Analysis
 ### Goal & Scope:
 How do you know which marketing message actually moves the needle for first-time buyers? That was the core challenge for NewCo after a one-week, multi-channel marketing trial.
+
 <img width="260" height="150" alt="BCG_X" src="https://github.com/user-attachments/assets/af314c09-660b-4284-851a-e2276be48130" />
+
 The goal of this project was to dive into the raw performance data of two distinct messaging strategies:
 * **Campaign A: A conversational, informal tone.**
 * **Campaign B: A direct, sales-focused promotional tone.**
